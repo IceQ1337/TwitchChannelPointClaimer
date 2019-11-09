@@ -1,4 +1,4 @@
-# TwitchChannelPointClaimer
+# Twitch Channel Point Claimer
 [![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com)  
 This userscript automatically claims the randomly appearing bonus chest on any open twitch stream.
 
