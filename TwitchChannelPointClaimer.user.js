@@ -7,6 +7,8 @@
 // @match        https://www.twitch.tv/*
 // @grant        none
 // @run-at       document-end
+// @updateURL    https://github.com/IceQ1337/TwitchChannelPointClaimer/raw/master/TwitchChannelPointClaimer.user.js
+// @downloadURL  https://github.com/IceQ1337/TwitchChannelPointClaimer/raw/master/TwitchChannelPointClaimer.user.js
 // ==/UserScript==
 
 (function() {
